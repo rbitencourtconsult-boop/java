@@ -17,7 +17,9 @@ public class Minhaslama {
         if(1==1){
         System.out.println("Um é igual a um");// TODO code application logic here
     }
-    
+        else{
+            System.out.println("1 nao eh igual a 1");
+        }
 }
     
 }
